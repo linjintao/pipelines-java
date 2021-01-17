@@ -1,4 +1,5 @@
 
+[![Build Status](https://linjintao.visualstudio.com/LearnPipeline/_apis/build/status/linjintao.pipelines-java?branchName=master)](https://linjintao.visualstudio.com/LearnPipeline/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
